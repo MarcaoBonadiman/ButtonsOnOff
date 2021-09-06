@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_amarelo.xml" value="0.375" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_branco.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_custon_desligado.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_custon_desligado_bb.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_custon_ligado.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_custon_ligado_bb.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/drawable/button_ret_disable.xml" value="0.27037037037037037" />
+        <entry key="..\:/Programas/Android/Android 10 Exemplos/ButtonsOnOff/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
